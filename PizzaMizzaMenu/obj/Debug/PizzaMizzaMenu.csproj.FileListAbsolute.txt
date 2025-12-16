@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\PizzaMizzaMenu\bin\Debug\PizzaMizzaMenu.exe.config
+C:\Users\Lenovo\source\repos\PizzaMizzaMenu\bin\Debug\PizzaMizzaMenu.exe
+C:\Users\Lenovo\source\repos\PizzaMizzaMenu\bin\Debug\PizzaMizzaMenu.pdb
+C:\Users\Lenovo\source\repos\PizzaMizzaMenu\obj\Debug\PizzaMizzaMenu.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\PizzaMizzaMenu\obj\Debug\PizzaMizzaMenu.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\PizzaMizzaMenu\obj\Debug\PizzaMizzaMenu.exe
+C:\Users\Lenovo\source\repos\PizzaMizzaMenu\obj\Debug\PizzaMizzaMenu.pdb
